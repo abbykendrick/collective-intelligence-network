@@ -11,3 +11,8 @@ This repository contains a Python-based network science pipeline that combines t
 ```bash
 python3 collective_network_sim.py
 ```
+
+## 3. Visualization Preview
+Here is a preview of the network science pipeline tracking the synchronization optimization curve:
+
+![Collective Intelligence Network Synchronization Preview](network_synchronization_preview.png)
