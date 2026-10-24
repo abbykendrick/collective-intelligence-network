@@ -1,18 +1,9 @@
-# Spectral Graph Analysis of Collective Intelligence
+# Collective Intelligence Network (Moved)
 
-### Lead Researcher & Core Engineer
-* **Name**: Abigail (Abby) Kendrick
-* **GitHub Profile**: [@abbykendrick](https://github.com)
+This project is now maintained at **[spectral-network-synchrony](https://github.com/abbykendrick/spectral-network-synchrony)**, with full documentation, results, and references.
 
-## 1. Executive Research Summary
-This repository contains a Python-based network science pipeline that combines the Kuramoto Model of Coupled Oscillators with Spectral Graph Theory. The project provides a mathematical framework for modeling the transition of decentralized networks from state chaos into global phase coherence [cs.cmu.edu].
+That repository models Kuramoto phase-locking on random graphs and analyzes it with spectral graph theory.
 
-## 2. Installation & Execution
-```bash
-python3 collective_network_sim.py
-```
+![Network synchronization preview](network_synchronization_preview.png)
 
-## 3. Visualization Preview
-Here is a preview of the network science pipeline tracking the synchronization optimization curve:
-
-![Collective Intelligence Network Synchronization Preview](network_synchronization_preview.png)
+Abby Kendrick · [GitHub](https://github.com/abbykendrick) · [LinkedIn](https://www.linkedin.com/in/abbykendrick)
